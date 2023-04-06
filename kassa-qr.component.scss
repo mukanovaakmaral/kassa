@@ -1,0 +1,35 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.kassa-qr{
+  margin-top:20px;
+}
+.spinner-loading{
+  margin-top: 40px;
+}
+.kassa-content{
+  background: #FFFFFF;
+  border-radius: 20px;
+  width: 480px;
+  height: 560px;
+  margin: 0 auto;
+}
+.kassa-title{
+  padding-top:144px ;
+  text-align: center;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+}
+.kaspi-svg{
+  padding-top: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.text1{
+  text-align: center;
+margin-top: 11px;
+}
